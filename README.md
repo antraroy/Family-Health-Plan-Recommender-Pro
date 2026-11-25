@@ -3,7 +3,7 @@
 A Streamlit web app that recommends the best family health insurance plans using **cosine similarity** (the same similarity-based logic used in my Cinemagic AI movie recommender).
 
 ## 🌐 Live demo
-[Open the live app](PASTE-YOUR-STREAMLIT-LINK-HERE)
+[Open the live app](https://github.com/antraroy/Family-Health-Plan-Recommender-Pro/edit/main/README.md)
 
 ## ✨ Features
 - Enter family details (adults, children, seniors), needs (maternity, OPD, family history) and budget
